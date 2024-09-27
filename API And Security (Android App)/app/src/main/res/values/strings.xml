@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">API and Security</string>
+    <string name="base_url">https://your-domain-address</string>
+</resources>
